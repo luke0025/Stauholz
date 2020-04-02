@@ -1,0 +1,83 @@
+
+body{
+    font-family: 'Prompt';
+    margin: 0;
+}
+
+ul.sidenav {
+    list-style-type: none;
+    padding: 2%;
+    background-color: #88BDBC;
+    max-width: 15%;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+    border-radius: 4px;
+  }
+
+  ul.sidenav li a {
+    display: block;  
+    color: #000;
+    text-decoration: none;
+    padding: 12px 16px;
+  }
+   
+
+.menuhome{
+    font-weight: bold;
+    font-size: 120%;
+}
+
+.logomenu{
+    width: 60%;
+    height: auto;
+    padding-top: 70px;
+    padding-left: 16px;
+}
+
+h1{ 
+
+padding-top: 0%;
+text-align: center;
+}
+
+h2{
+  margin-left: 20%;
+  padding-top: 0%;
+  text-align: left;
+}
+
+p{
+margin-left: 20%;
+padding-top: 0%;
+text-align: left;
+}
+
+.box{
+	width:90px;
+  height:90px;
+  margin-left: 20%;
+  border-radius: 4px;
+  
+}
+ 
+.one{
+	background:#88BDBC;
+}
+.two{
+	background:#254E58;
+}
+.three{
+	background:#112D32;
+}
+.four{
+	background:#4f4a41;
+}
+.five{
+	background:#6e6658;
+}
+
+.colorcards p{
+  font-weight: bold;
+  padding-top: 0%;
+}

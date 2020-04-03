@@ -1,0 +1,31 @@
+#fileuploader .dz-message {
+    width: 100vw;
+    margin: 0;
+    height: 300px;
+    border: none;
+    background-color: aliceblue;
+    font-size: 2rem;
+    font-weight: 100;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#fileuploader .dropzone {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#fileuploader .dz-drag-hover .dz-button {
+    background-color: red;
+}
+
+#fileuploader .dz-preview {
+    /* position: absolute; */
+}
+
+
+#fileuploader .dz-started .dz-message {
+    visibility: hidden;
+}
